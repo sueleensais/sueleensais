@@ -1,7 +1,6 @@
 <h1 align="left">Hello World! ✨</h1>
 
 ###
-###
 
 <h2 align="left">Contatos</h2>
 
