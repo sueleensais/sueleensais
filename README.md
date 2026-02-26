@@ -1,6 +1,5 @@
 <h1 align="left">Hello World! ✨</h1>
 
-###
 
 <h2 align="left">Contatos</h2>
 
@@ -20,9 +19,13 @@
 
 ###
 
-<p align="left">Eu sou a Sueleen, estou em transição de carreira da área fiscal para o mundo dos dados. Atualmente estou cursando Estatística Aplicada e me dedicando a diversos cursos de Data Science, buscando construir uma base sólida para atuar como profissional da área.<br><br>O que você vai encontrar aqui no meu portfólio:<br><br>- 🚀 Projetos <br>- 📊 Exercícios<br>- 🤖 Experimentos iniciais com ciência de dados e Machine Learning<br><br>Estou motivada a crescer profissionalmente e construir uma carreira sólida em Data Science, sempre com foco em aprendizado contínuo e curiosidade para explorar novas ferramentas e técnicas.</p>
+<p align="left">
+Sou a Sueleen, estou em transição da área fiscal para o mundo de Dados 🎲📊📈
 
-###
+  Atualmente curso Estatística Aplicada, e estou aprimorando os meus conhecimentos em Power BI, SQL, Python e R e estou em busca da minha primeira experiência profissional na área. 
+
+O que você vai encontrar aqui no meu portfólio:<br><br>- 🚀 Projetos <br>- 📊 Exercícios<br>- 🤖 Experimentos iniciais com ciência de dados e Machine Learning<br><br>
+
 
 <h2 align="left">Projetos em Destaque</h2>
 
