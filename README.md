@@ -52,4 +52,4 @@ O que você vai encontrar aqui no meu portfólio:<br><br>- 🚀 Projetos <br>- �
 ###
 
 ## Currículo
-[📄 Acesse meu CV](https://rxresu.me/sueleensais/dados)
+📄 [Acesse meu CV](https://rxresu.me/sueleensais/dados)
