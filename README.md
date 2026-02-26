@@ -1,9 +1,6 @@
 <h1 align="left">Hello World! ✨</h1>
 
-
 <h2 align="left">Sobre Mim</h2>
-
-###
 
 <p align="left">
 Sou a Sueleen, estou em transição da área fiscal para o mundo de Dados 🎲📊📈
@@ -11,7 +8,6 @@ Sou a Sueleen, estou em transição da área fiscal para o mundo de Dados 🎲�
   Atualmente curso Estatística Aplicada, e estou aprimorando os meus conhecimentos em Power BI, SQL, Python e R e estou em busca da minha primeira experiência profissional na área. 
 
 O que você vai encontrar aqui no meu portfólio:<br><br>- 🚀 Projetos <br>- 📊 Exercícios<br>- 🤖 Experimentos iniciais em Análise de Dados, Ciência de Dados e Machine Learning<br><br>
-
 
 <h2 align="left">Projetos em Destaque</h2>
 
