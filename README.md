@@ -1,20 +1,6 @@
 <h1 align="left">Hello World! ✨</h1>
 
 
-<h2 align="left">Contatos</h2>
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/sueleensais" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
- <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sueleencqs@gmail.com">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
-</a>
-  <a href="https://wa.me/5511968571267" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </a>
-</div>
-
 <h2 align="left">Sobre Mim</h2>
 
 ###
@@ -64,3 +50,6 @@ O que você vai encontrar aqui no meu portfólio:<br><br>- 🚀 Projetos <br>- �
 </div>
 
 ###
+
+## Currículo
+[📄 Acesse meu CV](https://rxresu.me/sueleensais/dados)
