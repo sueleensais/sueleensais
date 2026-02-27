@@ -14,7 +14,7 @@ O que você vai encontrar aqui no meu portfólio:<br><br>- 🚀 Projetos <br>- �
 ###
 
   - [SQL - Análise de Comportamento de Clientes](https://github.com/sueleensais/SQL-Comportamento-Clientes)<br>
-  - [Python - Machine Learning no Titanic](https://github.com/sueleensais/Python-MachineLearning-Titanic)<br>
+  - [Python - Titanic: Machine Learning from Disaster](https://github.com/sueleensais/Python-MachineLearning-Titanic)<br>
   - [R - Detecção de Anomalias com Machine Learning](https://github.com/sueleensais/R-MachineLearning-Deteccao-Anomalias)</p>
 
 ###
