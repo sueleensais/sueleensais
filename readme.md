@@ -12,7 +12,7 @@ O que você vai encontrar aqui no meu portfólio:<br>
 - 📊 Exercícios<br>
 - 🤖 Experimentos iniciais em Análise de Dados, Ciência de Dados e Machine Learning<br>
 
-<h2 align="left">Projetos em Destaque</h2>
+<h2 align="left">Projetos Desenvolvidos</h2>
 
 ###
 
@@ -21,7 +21,11 @@ Projeto desenvolvido para a competição do Kaggle, utilizando dados reais dos p
 - [Análise de Comportamento de Clientes em Séries Temporais](https://github.com/sueleensais/SQL-Comportamento-Clientes)<br>
 Projeto realizado durante o curso de SQL do TeoMeWhy, com dados reais anonimizados. Inclui exercícios e um case final, explorando consultas SQL, análises temporais e criação de features para entender padrões de comportamento de clientes. Mostra aplicação prática de SQL em cenários de negócios.
 - [Detecção de Anomalias em Transações Financeira](https://github.com/sueleensais/R-MachineLearning-Deteccao-Anomalias)</br>
-Projeto desenvolvido no curso de Power BI da DataScienceAcademy, utilizando R e dados fictícios simulando uma aplicação real. Implementa técnicas de detecção de anomalias em transações financeiras para identificar padrões incomuns, reforçando o uso de estatística e machine learning em contextos de monitoramento e análise de dados.
+Projeto desenvolvido no curso de Power BI da Data Science Academy, utilizando R com dados fictícios, simulando uma aplicação em cenário real. Implementa técnicas de detecção de anomalias em transações financeiras para identificar padrões incomuns, reforçando o uso de estatística e machine learning em contextos de monitoramento e análise de dados.
+- [Segmentação de Clientes Para Campanhas de Marketing](https://github.com/sueleensais/Python-MachineLearning-Segmentacao-Clientes)</br>
+Projeto desenvolvido no curso Data Science Academy, utilizando Python e Power BI com dados fictícios, sumulando uma aplicação em cenário real. Aplica algoritmos de Machine Learning para segmentar clientes por idade, renda anual e pontuação de gastos. Integração dos clusters em relatório visual no Power BI, permitindo insights para personalização de campanhas de marketing.
+- [Análise de Campanhas de Marketing](https://github.com/sueleensais/PowerBI-Campanhas-Maketing)</br>
+Projeto desenvolvido no curso Data Science Academy, no Power BI, utilizando dados fictícios. Consiste em construção de dashboards interativos para análise de campanhas de marketing, incluindo métricas de desempenho, segmentação e visualização de resultados.
 
 ###
 
