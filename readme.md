@@ -53,5 +53,3 @@ Projeto desenvolvido no curso de Power BI da DataScienceAcademy, utilizando R e 
 
 ###
 
-## Currículo
-📄 [Acesse meu CV](https://rxresu.me/sueleensais/dados)
