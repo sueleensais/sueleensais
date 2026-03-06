@@ -16,7 +16,7 @@ O que você vai encontrar aqui no meu portfólio:<br>
 
 ###
 - [Automação de Cotação de Moedas (Banco Central do Brasil)](https://github.com/sueleensais/automacao-cotacao-moedas-bcb/tree/main)<br>
-Projeto de iniciativa própria utilizando Python para extração automatizada de taxas PTAX via API do Banco Central do Brasil. Implementa um pipeline completo de dados com as bibliotecas Requests e Pandas, estruturando séries temporais para análise de volatilidade cambial.
+Projeto de iniciativa própria utilizando Python para extração automatizada de taxas PTAX via API do Banco Central do Brasil. Os dados são tratados com Pandas e exportados para Excel, com execução automatizada via Agendador de Tarefas do Windows.
 - [Titanic: Machine Learning from Disaster](https://github.com/sueleensais/Python-MachineLearning-Titanic)<br>
 Projeto desenvolvido para a competição do Kaggle, utilizando Python com dados reais dos passageiros do Titanic. Estruturado em duas etapas (baseline e advanced), aplicando algoritmos de classificação como Random Forest, Logistic Regression e XGBoost em Python. Demonstra evolução prática em ciência de dados, desde um modelo inicial até um pipeline completo com engenharia de features e métricas avançadas.
 - [Análise de Comportamento de Clientes em Janelas Temporais](https://github.com/sueleensais/SQL-Comportamento-Clientes)<br>
