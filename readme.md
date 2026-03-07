@@ -18,7 +18,7 @@ O que você vai encontrar aqui no meu portfólio:<br>
 - [**Avaliação Educacional de Questões com Classical Test Theory (CTT)**](https://github.com/sueleensais/avaliacao-educacional-ctt)<br>
 Projeto de iniciativa própria, utilizando Python com dados fictícios. Aplica técnicas da Classical Test Theory (CTT) para avaliar a qualidade de questões educacionais, calculando dificuldade, discriminação e interpretação automática. Objetivo: apoiar decisões pedagógicas com diagnósticos estatísticos claros e visualizações gráficas.
 
-- [**Automação de Cotação de Moedas (Banco Central do Brasil)**](https://github.com/sueleensais/automacao-cotacao-moedas-bcb/tree/main)<br>
+- [**Automação de Cotação de Moedas (Banco Central do Brasil)**](https://github.com/sueleensais/automacao-cotacao-moedas-bcb))<br>
 Projeto de iniciativa própria, utilizando Python com dados reais obtidos via API do Banco Central. Implementa extração automatizada das taxas PTAX, utilizando requests e Pandas para tratamento dos dados e exportação para Excel, com agendamento via Task Scheduler. Objetivo: demonstrar automação de processos, integração de APIs REST e manipulação de dados financeiros em fluxo ETL.
 
 - [**Titanic: Machine Learning from Disaster**](https://github.com/sueleensais/Python-MachineLearning-Titanic)<br>
