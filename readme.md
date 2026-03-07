@@ -16,10 +16,10 @@ O que você vai encontrar aqui no meu portfólio:<br>
 
 ###
 - [**Avaliação Educacional de Questões com Classical Test Theory (CTT)**](https://github.com/sueleensais/avaliacao-educacional-ctt)<br>
-rojeto de iniciativa própria, desenvolvido em Python utilizando NumPy, Pandas e Matplotlib. Aplica técnicas da Classical Test Theory (CTT) para avaliar a qualidade de questões educacionais, calculando dificuldade, discriminação e interpretação automática. Objetivo: apoiar decisões pedagógicas com diagnósticos estatísticos claros e visualizações gráficas
+Projeto de iniciativa própria, desenvolvido em Python utilizando NumPy, Pandas e Matplotlib. Aplica técnicas da Classical Test Theory (CTT) para avaliar a qualidade de questões educacionais, calculando dificuldade, discriminação e interpretação automática. Objetivo: apoiar decisões pedagógicas com diagnósticos estatísticos claros e visualizações gráficas
 
 - [**Automação de Cotação de Moedas (Banco Central do Brasil)**](https://github.com/sueleensais/automacao-cotacao-moedas-bcb/tree/main)<br>
-- Projeto de iniciativa própria, desenvolvido em Python para extração automatizada de taxas PTAX via API do Banco Central. Utiliza requests, Pandas e exportação para Excel, com agendamento via Task Scheduler. Objetivo: demonstrar automação de processos, integração de APIs e manipulação de dados financeiros.
+Projeto de iniciativa própria, desenvolvido em Python para extração automatizada de taxas PTAX via API do Banco Central. Utiliza requests, Pandas e exportação para Excel, com agendamento via Task Scheduler. Objetivo: demonstrar automação de processos, integração de APIs e manipulação de dados financeiros.
 
 - [**Titanic: Machine Learning from Disaster**](https://github.com/sueleensais/Python-MachineLearning-Titanic)<br>
 Projeto desenvolvido durante a competição do Kaggle, utilizando Python com dados reais dos passageiros do Titanic. Estruturado em duas etapas (baseline e advanced), aplicando algoritmos de classificação como Random Forest, Logistic Regression e XGBoost. Objetivo: demonstrar evolução prática em ciência de dados, desde um modelo inicial até um pipeline completo com engenharia de features e métricas avançadas.
