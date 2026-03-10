@@ -14,26 +14,25 @@ O que você vai encontrar aqui no meu portfólio:<br>
 
 ###
 - [**Avaliação Educacional de Questões com Classical Test Theory (CTT)**](https://github.com/sueleensais/avaliacao-educacional-ctt)<br>
-Projeto de iniciativa própria, utilizando Python com dados fictícios. Aplica técnicas da Classical Test Theory (CTT) para avaliar a qualidade de questões educacionais, calculando dificuldade, discriminação e interpretação automática. Objetivo: apoiar decisões pedagógicas com diagnósticos estatísticos claros e visualizações gráficas.
+Aplicar técnicas de psicometria baseadas na Classical Test Theory (CTT) utilizando Python com dados fictícios, avaliar a qualidade de questões educacionais por meio do cálculo de índices de dificuldade e discriminação, interpretar resultados de forma automática, apoiar decisões pedagógicas com diagnósticos estatísticos claros e gerar visualizações gráficas para facilitar a compreensão dos resultados.
 
 - [**Automação de Cotação de Moedas (Banco Central do Brasil)**](https://github.com/sueleensais/automacao-cotacao-moedas-bcb)<br>
-Projeto de iniciativa própria, utilizando Python com dados reais obtidos via API do Banco Central. Implementa extração automatizada das taxas PTAX, utilizando requests e Pandas para tratamento dos dados e exportação para Excel, com agendamento via Task Scheduler. Objetivo: demonstrar automação de processos, integração de APIs REST e manipulação de dados financeiros em fluxo ETL.
+Automatizar a extração das taxas PTAX via API do Banco Central utilizando Python, requests e Pandas para tratamento dos dados, exportar resultados para Excel, agendar execução via Task Scheduler, demonstrar automação de processos, integração de APIs REST e manipulação de dados financeiros em fluxo ETL, otimizar rotinas de análise e reduzir esforço manual.
 
 - [**Titanic: Machine Learning from Disaster**](https://github.com/sueleensais/Python-MachineLearning-Titanic)<br>
-Projeto desenvolvido durante a competição do Kaggle, utilizando Python com dados reais dos passageiros do Titanic. Estruturado em duas etapas (baseline e advanced), aplicando algoritmos de classificação como Random Forest, Logistic Regression e XGBoost. Objetivo: demonstrar evolução prática em ciência de dados, desde um modelo inicial até um pipeline completo com engenharia de features e métricas avançadas.
+Desenvolver modelos preditivos de classificação utilizando Python com dados reais de passageiros, aplicar algoritmos de Machine Learning como Random Forest, Logistic Regression e XGBoost para prever a sobrevivência, realizar engenharia de features e limpeza de dados para otimização de métricas, demonstrar a evolução analítica através de uma abordagem incremental (baseline e avançada) e validar a performance do modelo em um pipeline completo de ciência de dados..
 
 - [**Análise de Comportamento de Clientes em Janelas Temporais**](https://github.com/sueleensais/SQL-Comportamento-Clientes)<br>
-Projeto desenvolvido durante o curso de SQL do TeoMeWhy, utilizando SQL com dados reais anonimizados. Inclui exercícios e um case final, explorando consultas SQL, análises temporais e criação de features. Objetivo: aplicar SQL em cenários de negócios para entender padrões de comportamento de clientes.
+Explorar consultas SQL com dados reais anonimizados, realizar análises temporais e criar features, aplicar SQL em cenários de negócios para entender padrões de comportamento de clientes, estruturar análises em janelas temporais e transformar dados em informações estratégicas para tomada de decisão.
 
 - [**Detecção de Anomalias em Transações Financeiras**](https://github.com/sueleensais/R-MachineLearning-Deteccao-Anomalias)</br>
-Projeto desenvolvido durante o curso de Power BI da Data Science Academy, utilizando R com dados fictícios. Implementa técnicas de detecção de anomalias em transações financeiras para identificar padrões incomuns. Objetivo: reforçar o uso de estatística e machine learning em monitoramento e análise de dados financeiros.
+Implementar técnicas de detecção de anomalias em transações financeiras utilizando R com dados fictícios, identificar padrões incomuns em movimentações, reforçar o uso de estatística e machine learning em monitoramento e análise de dados financeiros, demonstrar aplicação prática de modelos preditivos em cenários de risco.
 
 - [**Segmentação de Clientes Para Campanhas de Marketing**](https://github.com/sueleensais/Python-MachineLearning-Segmentacao-Clientes)</br>
-Projeto desenvolvido durante o curso da Data Science Academy, utilizando Python e Power BI com dados fictícios. Aplica algoritmos de Machine Learning para segmentar clientes por idade, renda anual e pontuação de gastos. Objetivo: integrar clusters em relatórios visuais no Power BI, gerando insights para personalização de campanhas de marketing.
+Aplicar algoritmos de Machine Learning utilizando Python e Power BI com dados fictícios para segmentar bases de clientes por idade, renda anual e pontuação de gastos. O projeto foca na integração de clusters em relatórios visuais, demonstrando a capacidade de transformar modelos estatísticos em insights acionáveis para a personalização de estratégias de marketing e otimização de conversão.
 
-- [**Análise de Campanhas de Marketing**](https://github.com/sueleensais/PowerBI-Campanhas-Maketing)</br>
-Projeto desenvolvido durante o curso da Data Science Academy, utilizando Power BI com dados fictícios. Consiste na construção de dashboards interativos para análise de campanhas de marketing. Objetivo: avaliar métricas de desempenho, segmentação e resultados de forma visual e dinâmica.
-
+- [**Análise de Desempenho Campanhas de Marketing**](https://github.com/sueleensais/PowerBI-Campanhas-Maketing)</br>
+Desenvolver dashboards interativos utilizando Power BI para a monitoração de KPIs de marketing. O projeto consiste na estruturação de visualizações dinâmicas para avaliar métricas de desempenho e segmentação de resultados, focando na transformação de dados brutos em ferramentas de suporte à decisão e análise de ROI de forma visual e intuitiva.
 ###
 
 <h2 align="left">Skills</h2>
