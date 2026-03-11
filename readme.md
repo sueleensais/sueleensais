@@ -13,7 +13,7 @@ O que você vai encontrar aqui no meu portfólio:<br>
 <h2 align="left">Projetos Desenvolvidos</h2>
 
 ###
-- [**Avaliação Educacional de Questões com Classical Test Theory (CTT)**](https://github.com/sueleensais/avaliacao-educacional-ctt)<br>
+- [**Avaliação Psicométrica de Questões Educacionais com Classical Test Theory (CTT)**](https://github.com/sueleensais/avaliacao-educacional-ctt)<br>
 Aplicar técnicas de psicometria baseadas na Classical Test Theory (CTT) utilizando Python com dados fictícios, avaliar a qualidade de questões educacionais por meio do cálculo de índices de dificuldade e discriminação, interpretar resultados de forma automática, apoiar decisões pedagógicas com diagnósticos estatísticos claros e gerar visualizações gráficas para facilitar a compreensão dos resultados.
 
 - [**Automação de Cotação de Moedas (Banco Central do Brasil)**](https://github.com/sueleensais/automacao-cotacao-moedas-bcb)<br>
