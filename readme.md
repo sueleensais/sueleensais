@@ -3,7 +3,7 @@
 <p align="left">
 Sou a Sueleen, estou em transição da área fiscal para o mundo de Dados 🎲📊📈
 
-Atualmente curso Estatística Aplicada, e estou aprimorando os meus conhecimentos em Power BI, Excel, SQL, Python e R, em busca da minha primeira experiência profissional na área. 
+Atualmente curso MBA em Data Science, Inteligência Artificial e Analytics na USP/Esalq, e estou aprimorando os meus conhecimentos em Power BI, Excel, SQL, Python e R, em busca da minha primeira experiência profissional na área. 
 
 O que você vai encontrar aqui no meu portfólio:<br>
 - 🚀 Projetos <br>
